@@ -1,0 +1,14 @@
+{
+  "name": "ublu",
+  "version": "1.0.0",
+  "description": "Effective open-sourced forums server",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FinleyCodes",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
